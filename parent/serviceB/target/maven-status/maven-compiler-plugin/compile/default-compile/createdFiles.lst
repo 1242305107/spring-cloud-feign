@@ -1,0 +1,6 @@
+com\wch\controller\ControllerB.class
+com\wch\Service2Application.class
+com\wch\feign\ClientA.class
+com\wch\feign\fallback\ClientAFallbackFactory.class
+com\wch\service\TestA.class
+com\wch\feign\fallback\ClientAFallbackFactory$1.class
